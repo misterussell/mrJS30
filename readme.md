@@ -1,17 +1,9 @@
-![](https://javascript30.com/images/JS3-social-share.png)
-
 # JavaScript30
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge. 
+- I will be using these small code challenges during project downtime, attempting to solve the problems without prompts from the creator on his methods.
 
-Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
+- File structures may be adjusted slightly to make more modular projects.
 
-Text-based guides (unofficial) for the challenges can be found here - [Text Guides](https://github.com/nitishdayal/JavaScript30).
+- JS files will be saved as `main.js` in each project folder. 
 
-## Pull Requests
-
-These are meant to be 1:1 copies of what is done in the video. If you found a better / different way to do things, great, but I will be keeping them the same as the videos. 
-
-The starter files + solutions will be updated if/when the videos are updated. 
-
-Thanks!
+JS30 Course Info [https://JavaScript30.com](https://JavaScript30.com)
